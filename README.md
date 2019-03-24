@@ -1,4 +1,4 @@
-# typos :nerd_face:
+# typos :nerd_face: EBH
 Repository with a lot of typos to practice PRs
 
 Contributng to open sorce projects is dautning, especially if you're not yet confident in your coding skills. One easy way to start contributing is by submitting **typo fixes**.  
