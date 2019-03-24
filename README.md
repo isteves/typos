@@ -9,6 +9,7 @@ The steps:
 2. Create a *branch* (it's good practice to keep your `master` branch clean and up-to-date with the original repository)
 3. Make the changes on the branch via *commits*
 4. Submit a *pull request* back into the orignal repository
-5. Update your pul request with extra commits as needed
+5. Update your pull request with extra commits as needed
+6. change
 
 # CHANGE
